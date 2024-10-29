@@ -64,8 +64,10 @@ class Program:
         if len(found) == 0:
             print("Nincs találat")
             return
+        i = 1
         for friend in found:
-            print("1. ", end="")
+            print(i,". ", end="")
+            i = i+1
             friend.print_friend()
             print()
         chosen = int(input("Válassz egyet: "))
