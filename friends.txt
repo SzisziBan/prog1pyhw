@@ -1,0 +1,3 @@
+Kis Béla;Béla;1900-12-04;06307849949;email.email@com.hu;
+
+Nagy Ferenc;Feri;1900-01-22;1231231412313;nincs neki :(;
